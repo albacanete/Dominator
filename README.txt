@@ -1,5 +1,5 @@
 # Dominator
-Joc de l'assignatura Estructura de dades i algorismes. <br>
+Joc de l'assignatura Estructura de dades i algorismes.
 Quatrimestre de primavera. Curs 2016-2017.
 
 title:      Dominator
